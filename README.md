@@ -6,3 +6,6 @@ https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs
 
 Default gitignore
 https://github.com/github/gitignore/blob/master/Python.gitignore
+
+Link to video:
+https://www.twitch.tv/videos/715197001
