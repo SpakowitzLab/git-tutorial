@@ -1,5 +1,5 @@
 def add(x, y):
-    """Sums x with y."""
+    """Adds x to y."""
     return x + y
 
 def subtract(x, y):
@@ -10,3 +10,7 @@ def double(x):
 
 def square(x):
     return x*x
+
+def displacement2(X, Y):
+    return [subtract(Y[0], X[0]), subtract(Y[1], X[1])]
+
