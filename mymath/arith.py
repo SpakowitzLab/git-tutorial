@@ -7,3 +7,5 @@ def subtract(x, y):
 def double(x):
     return add(x, x)
 
+def square(x):
+    return x*x
