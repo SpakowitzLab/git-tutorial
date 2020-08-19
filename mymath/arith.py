@@ -1,4 +1,5 @@
 def add(x, y):
+    """Sums x with y."""
     return x + y
 
 def subtract(x, y):
