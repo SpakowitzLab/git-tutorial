@@ -12,5 +12,5 @@ def square(x):
     return x*x
 
 def displacement2(X, Y):
-    return [subtract(X[0], Y[0]), subtract(X[1], Y[1])]
+    return [subtract(Y[0], X[0]), subtract(Y[1], X[1])]
 
