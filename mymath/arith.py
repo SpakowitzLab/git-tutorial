@@ -10,3 +10,7 @@ def double(x):
 
 def square(x):
     return x*x
+
+def displacement2(X, Y):
+    return [subtract(X[0], Y[0]), subtract(X[1], Y[1])]
+

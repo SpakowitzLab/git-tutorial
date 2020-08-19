@@ -8,3 +8,8 @@ def test_subtract():
 def test_double():
     assert double(3) == 6
     
+def test_disp():
+    d = displacement2([1, 1], [0, 0])
+    assert d[0] == 1
+    assert d[1] == 1
+   
